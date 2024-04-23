@@ -52,17 +52,20 @@
 </p>
 <br />
 
-<!-- learnings -->
-<h4 align="center">Learning</h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=solidity%2Cgooglecloud&theme=dark' />
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=solidity%2Cgooglecloud&theme=light' />
-          <img src='https://skillicons.dev/icons?i=solidity%2Cgooglecloud' alt="learning" />
-        </picture>
-  </a>
-</p>
+<!-- snake graph -->
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/thisiszana/thisiszana/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/thisiszana/thisiszana/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/thisiszana/thisiszana/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+  <br />
+  <br />
+  <br />
+</div>
+
 <hr />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisiszana&show_icons=true&locale=en&layout=compact" alt="thisiszana" /></p>
