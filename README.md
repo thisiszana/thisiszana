@@ -11,7 +11,7 @@
 <div>
   <img width="300" alt="thisiszana" src="https://images.velog.io/images/leo-xee/post/247fa1a2-c84f-43f1-afca-38458103fd9a/JS.gif" />
   <img width="300" alt="thisiszana" src="https://www.cloudfrl.com/content/images/2023/12/IMG_5141.gif" />
-  <img height="385" width="300" alt="thisiszana" src="https://raw.githubusercontent.com/serverless-nextjs/serverless-next.js/master/img/logo.gif" />
+  <img height="160" width="300" alt="thisiszana" src="https://raw.githubusercontent.com/serverless-nextjs/serverless-next.js/master/img/logo.gif" />
   <br />
   <br />
   <img height="150" align="right" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="thisiszana" style="margin-right: 2rem;" />
