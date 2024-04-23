@@ -19,10 +19,10 @@
 
 <hr />
 
-<div align="center">
+
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 <img align="right" alt="sheikh python" width = "400" src ="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
-</div>
+
 <hr />
 
 <h3 align="center">Connect with me:</h3>
