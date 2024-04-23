@@ -7,6 +7,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thisiszana&label=Profile%20views&color=0e75b6&style=flat" alt="thisiszana" /> </p>
 
+<hr />
 
 <div align="center">
 💻 I love to learn new technologies and frameworks.
@@ -15,16 +16,23 @@
 
 ⚡ Fun fact **I like err 😁**
 </div>
-<img align="center" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 
-<div>
+<hr />
+
+<div align="center">
+<img align="center" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
+</div>
+
+<hr />
+
 ![](https://github-readme-stats.vercel.app/api?username=thisiszana&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thisiszana&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thisiszana&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sunil9813&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
+
+<hr />
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -56,9 +64,10 @@
 </p>
 <br />
 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Issues](https://img.shields.io/github/issues/yourusername/yourprojectname.svg)](https://github.com/yourusername/yourprojectname/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/yourusername/yourprojectname.svg)](https://github.com/yourusername/yourprojectname/pulls)
+[![Contributors](https://img.shields.io/github/contributors/yourusername/yourprojectname.svg)](https://github.com/yourusername/yourprojectname/graphs/contributors)
 
-<hr />
+![Project Image](https://placehold.it/1200x600)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisiszana&show_icons=true&locale=en&layout=compact" alt="thisiszana" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisiszana&show_icons=true&locale=en" alt="thisiszana" /></p>
