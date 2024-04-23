@@ -52,22 +52,60 @@
 </p>
 <br />
 
-<!-- snake graph -->
-<div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/thisiszana/thisiszana/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/thisiszana/thisiszana/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/thisiszana/thisiszana/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
-  <br />
-  <br />
-  <br />
-</div>
 
 <hr />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisiszana&show_icons=true&locale=en&layout=compact" alt="thisiszana" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisiszana&show_icons=true&locale=en" alt="thisiszana" /></p>
+
+<!-- repositories -->
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br />
+<!-- first row -->
+<div width="100%" align="center">
+<!-- repo 1 -->
+  <a align="right" href="https://github.com/sanidhyy/3d-portfolio" title="3D Portfolio">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=graywhite&border_radius=10" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - 3d portfolio" />
+    </picture>
+  </a>
+<!-- repo 2 -->
+  <a align="left" href="https://github.com/sanidhyy/mern-admin" title="Admin Dashboard">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - mern admin" />
+    </picture>
+</a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<!-- second row -->
+<div width="100%" align="center">
+<!-- repo 3 -->
+  <a align="left" href="https://github.com/sanidhyy/portfolio-react" title="React Portfolio">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=portfolio-react&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=portfolio-react&theme=graywhite&border_radius=10" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=portfolio-react&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - portfolio react" />
+    </picture>
+  </a>
+<!-- repo 4 -->
+  <a align="right" href="https://github.com/sanidhyy/real-estate-app" title="Real EState App">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/thisiszana/Weblog-GraphQL-MUI&repo=real-estate-app&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/thisiszana/Weblog-GraphQL-MUI/api/pin/?username=thisiszana&repo=real-estate-app&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github.com/thisiszana/Weblog-GraphQL-MUI&repo=real-estate-app&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - real estate app" />
+    </picture>
+</div>
+
+<!-- spaces -->
+
+<br /><br /><br /><br /><br /><br />
+
+<!-- show more repos -->
+<h4 align="center">
+  <a href="https://github.com/thisiszana?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
