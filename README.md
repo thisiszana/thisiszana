@@ -20,7 +20,8 @@
 <hr />
 
 <div align="center">
-<img align="center" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
+<img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
+<img align="right" alt="sheikh python" width = "400" src ="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 </div>
 
 <hr />
@@ -63,11 +64,3 @@
   </a>
 </p>
 <br />
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Issues](https://img.shields.io/github/issues/yourusername/yourprojectname.svg)](https://github.com/yourusername/yourprojectname/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/yourusername/yourprojectname.svg)](https://github.com/yourusername/yourprojectname/pulls)
-[![Contributors](https://img.shields.io/github/contributors/yourusername/yourprojectname.svg)](https://github.com/yourusername/yourprojectname/graphs/contributors)
-
-![Project Image](https://placehold.it/1200x600)
-
