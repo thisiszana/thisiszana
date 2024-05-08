@@ -62,6 +62,6 @@
 <br />
 <br />
 <p align="center">
-         <img src="https://skillicons.dev/icons?i=emotion,js,react,nuxtjs,vscode,vite,linkedin,discord,windows,postman,git,github,gitlab,html,css,,sass,tailwind,instagram,graphql,bsd,&perline=8" />
+         <img src="https://skillicons.dev/icons?i=emotion,js,react,nuxtjs,vscode,vite,linkedin,discord,windows,postman,git,github,gitlab,html,css,,sass,tailwind,instagram,mongodb,graphql,bsd,&perline=8" />
   </p>
 <br />
