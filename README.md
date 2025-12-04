@@ -1,8 +1,4 @@
-<p align="center">
-<a href="https://github.com/thisiszana">
-    <img src="https://readme-typing-svg.demolab.com?font=Firacode&size=24&duration=3000&pause=500&color=AE87FF&multiline=true&center=true&vCenter=true&width=265&height=124&lines=Zana+Amanallhy; Front-End Developer" alt="Typing SVG" />
-</a>
-</p>
+
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
 <h3 align="center">A passionate frontend developer</h3>
 <hr />
